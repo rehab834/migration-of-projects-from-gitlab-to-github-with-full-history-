@@ -1,5 +1,5 @@
 # migration-of-projects-from-gitlab-to-github-with-full-history-
-# GitLab to GitHub Migration Script
+# GitLab to GitHub Migration Script (Automatically)
 
 This repository contains a **Bash script** that automatically migrates
 all repositories you have access to on **GitLab** (including group-owned
