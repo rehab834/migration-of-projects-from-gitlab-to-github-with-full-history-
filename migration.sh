@@ -1,3 +1,6 @@
+
+#!/bin/bash
+
 GITLAB_USER="your_user"
 GITHUB_USER="your_user"
 GITLAB_TOKEN="your_token"
